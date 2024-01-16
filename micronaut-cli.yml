@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: com.github.graqr
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, graalvm, gradle, http-client-test, jackson-databind, java, jdbc-hikari, logback, micronaut-build, picocli, picocli-java-application, picocli-spock, postgres, properties, readme, shade, spock, test-resources]
